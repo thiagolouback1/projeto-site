@@ -7,6 +7,10 @@ body {
     background-color:rgba(150, 46, 248, 0.856)
 }
 
+.lado {
+    width: 320px;
+}
+
 main {
     background-color: white;
     width: 500px;
